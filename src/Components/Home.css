@@ -1,0 +1,78 @@
+
+.hi{
+    background-color: rgb(129,62,242);    
+}
+.mes{
+    display: flex;
+    justify-content: space-between;
+}
+.butt{
+    align-content: center;
+}
+.butt button{
+
+    width: 150px;
+    border: none;
+    border-radius: 25px;
+    background-color: black;
+    height: 50px;
+    color: white;
+    justify-content: center;
+}
+.te h1{
+    font-size: 5rem;    
+    color: white;
+    
+}
+.te p{
+    font-size: 30px;    
+    color: white;
+    
+}
+.te button {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 15px;
+    padding: 12px 24px;
+    cursor: pointer;
+    width: 450px;
+}
+.im1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px;
+}
+.im2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px;
+}
+.im3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px;
+}
+.im img{
+    border-radius: 15px;
+    height: 150px;
+    width: 200px;
+}
+.pro{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.frt{
+    width: 600px;
+    height: 500px;
+    /* background-color: rgb(129,62,242); */
+}
+.pim img{
+    width: 500px;
+    height: 400px;
+    border-radius: 15px;
+}
