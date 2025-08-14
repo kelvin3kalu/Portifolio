@@ -62,10 +62,23 @@ export default function Home() {
                 <div className="pim1">
                   <img src={wow} alt="" />
                 </div>
+                <h3>Wow, a Creative Showcase that Captivates and Inspires.</h3>
+                <p>Step into a world of creativity and innovation, where every project tells a story.<br />
+                  Join me on this journey of exploration and discovery, and let's create something amazing together.
+                </p>
               </div>
             
-        </div>        
-     
+        </div><br /><br /><br /><br />
+        <div className="touch">
+          <div className="text">
+            <h3>Get in Touch</h3>
+            <p>If you're interested in collaborating or just want to say hi, feel free to reach out!</p>
+          </div>
+          <div className="tbutt">
+            <button>Get in Touch</button>
+          </div>
+        </div>
+
     </>
   );
 }
